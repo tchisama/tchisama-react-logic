@@ -82,7 +82,7 @@ The `DateComponent` component allows you to format and display dates easily.
 
 | Prop             | Description                                      | Example                                           |
 |------------------|--------------------------------------------------|---------------------------------------------------|
-| `className`      | CSS classes for the container element.           | `'bg-blue-600 w-fit p-2 rounded-md'`             |
+| `className`      | CSS classes for the container element.           | any classes u want             |
 | `value`          | The date object to format and display.           | `new Date()`                                      |
 | `get`            | The part of the date to display (e.g., 'date').  | `"date"`                                         |
 
