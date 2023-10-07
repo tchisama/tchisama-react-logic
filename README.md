@@ -147,9 +147,3 @@ import { Switch, Case, Default, Loop, DateComponent, If, True, False, Random, Ra
 
 3. Use the imported components in your JSX as demonstrated in the component descriptions above.
 
-### License
-
-This package is open-source and available under the MIT License.
-```
-
-Now the README includes code results for each component to provide a clearer understanding of how they work.
