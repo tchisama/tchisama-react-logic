@@ -1,4 +1,3 @@
-Certainly! Here's the updated README with code results added to each component:
 
 
 # tchisama-react-logic
