@@ -18,7 +18,7 @@ yarn add tchisama-react-logic
 
 ## Components
 
-### 1. Switch, Case, Default
+### 1. **Switch**, Case, Default
 
 The `Switch` component allows you to conditionally render content based on the provided value. Use `Case` components to define different cases and a `Default` component for a fallback.
 
